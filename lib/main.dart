@@ -1,4 +1,4 @@
-import 'package:crud/iu/pages/home/screen_home.dart';
+import 'package:tasks/iu/pages/home/screen_home.dart';
 import 'package:flutter/material.dart';
 
 void main() {
